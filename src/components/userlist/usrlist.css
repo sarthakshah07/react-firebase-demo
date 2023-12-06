@@ -1,0 +1,22 @@
+/* CSS Styles */
+.my-table {
+    border-collapse: collapse !important;
+    width: 100%;
+    border: 1px solid #dddddd;
+    text-align: center;
+    /* background-color: red; */
+  }
+  
+  .my-table th,
+  .my-table td {
+    border: 1px solid #dddddd;
+    /* padding: 8px; */
+    text-align: left;
+    font-size: 10px;
+  }
+  
+  .my-table th {
+    background-color: #855c5c;
+    font-weight: bold;
+  }
+  
